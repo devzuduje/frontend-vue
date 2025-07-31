@@ -17,7 +17,9 @@
     "axios": "^1.11.0",
     "pinia": "^3.0.3",
     "vue": "^3.5.17",
-    "vue-router": "^4.5.1"
+    "serve": "^14.2.0",
+    "vue-router": "^4.5.1",
+    "vite": "^7.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",
@@ -28,7 +30,6 @@
     "globals": "^16.2.0",
     "prettier": "3.5.3",
     "terser": "^5.43.1",
-    "vite": "^7.0.0",
     "vite-plugin-vue-devtools": "^7.7.7"
   }
 }
